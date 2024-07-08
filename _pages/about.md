@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I am Arihant!"
+title: "Hi... I am Arihant!"
 author_profile: true
 redirect_from: 
   - /about/
